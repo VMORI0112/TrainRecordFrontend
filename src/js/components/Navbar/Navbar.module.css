@@ -1,0 +1,45 @@
+.navBarI {
+    background-color: white;
+}
+.btnGreen {
+    background-color: #7CD1F9!important;
+    border-color: #BBD5E4!important;
+    color: #000000!important;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.btnGreen:hover {
+    background-color: #9BDCFA!important;
+}
+.wash {
+    vertical-align: text-top;
+}
+.dropBtn {
+    background-color: #7CD1F9;
+    border-color: #BBD5E4!important;
+    color: #000000;
+    outline: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 4px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.dropBtn:hover {
+    background-color: #9BDCFA;
+}
+.dropBtn:focus {
+    outline: none;
+}
+.wallet {
+    background-color: #7CD1F9;
+    color: #000000;
+    padding: 10px;
+    border-radius: 100px;
+    font-weight: bold;
+    text-decoration: none;
+    border-color: #BBD5E4!important;
+}
+.wallet:hover {
+    background-color: #9BDCFA;
+    text-decoration: none;
+}
